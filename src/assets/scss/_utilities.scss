@@ -1,0 +1,13 @@
+.link-primary {
+  color: black;
+  &:hover {
+    color: darkblue;
+    text-decoration: underline;
+  }
+}
+.box-validated {
+  border-color: #dc3545;
+}
+.box-readonly {
+  background-color: #e9ecef;
+}
